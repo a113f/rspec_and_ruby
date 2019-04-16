@@ -13,6 +13,5 @@ describe Calculator do
 
       expect(result).to eq(-5)
     end
-
   end
 end
